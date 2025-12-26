@@ -10,13 +10,7 @@ Collection of C++ programs implementing fundamental data structures from my BCA 
 - Program to input a square matrix, display it, and print anti-diagonal elements.
 - Technologies: C++ (console-based), 2D arrays.
 
-**Screenshots:**
 
-![Input](01-Matrix/Matrix-input.png)
-![Display](01-Matrix/diplay-matrix.png)
-![matrixValues](01-Matrix/Matrix-values.png)
-
-**Code:** [matrix.cpp](01-Matrix/Matrix.cpp)
 
 ## How to Run
 Compile: `g++ matrix.cpp -o matrix`  
