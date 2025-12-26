@@ -12,11 +12,11 @@ Collection of C++ programs implementing fundamental data structures from my BCA 
 
 **Screenshots:**
 
-![Input](01-Matrix/matrix_input.png)
-![Display](01-Matrix/matrix_output.png)
-![Anti-Diagonal](01-Matrix/matrix_diagonal.png)
+![Input](01-Matrix/matrix-input.png)
+![Display](01-Matrix/diplay-matrix.png)
+![matrixValues](01-Matrix/matrix-values.png)
 
-**Code:** [matrix.cpp](01-Matrix/matrix.cpp)
+**Code:** [matrix.cpp](01-Matrix/Matrix.cpp)
 
 ## How to Run
 Compile: `g++ matrix.cpp -o matrix`  
