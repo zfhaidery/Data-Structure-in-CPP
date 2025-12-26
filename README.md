@@ -12,9 +12,9 @@ Collection of C++ programs implementing fundamental data structures from my BCA 
 
 **Screenshots:**
 
-![Input](01-Matrix/matrix-input.png)
+![Input](01-Matrix/Matrix-input.png)
 ![Display](01-Matrix/diplay-matrix.png)
-![matrixValues](01-Matrix/matrix-values.png)
+![matrixValues](01-Matrix/Matrix-values.png)
 
 **Code:** [matrix.cpp](01-Matrix/Matrix.cpp)
 
